@@ -4,6 +4,7 @@ import Employee from './Nested_components/nestedcomp';
 import emp from './Data/profiles.json';
 import JsonData from './Data/profiles.json';
 import NavComponent from './routings/navbar';
+import Incdec from "./states";
 import { Route, Routes } from "react-router-dom";
 import Home from "./routings/home"
 import Register from "./routings/reg";
@@ -16,6 +17,7 @@ function App() {
       <header className="App-header">
         <NavComponent name="shridhar"/>
         <h1 className="Task28"><ul>TASK-28 REACT</ul></h1>
+        <Incdec/>
         <hr></hr>
         <div class="nest">
         <h1>Employee Details:[Nested]</h1>
@@ -83,5 +85,4 @@ function JsonDataDisplay()
     </div>
   )
 }
-
 export default App;
