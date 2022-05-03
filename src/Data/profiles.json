@@ -1,0 +1,66 @@
+[
+    {
+        "id": "101",
+        "dept": "Developer",
+        "firstName": "Arun",
+        "lastName": "Shetty",
+        "location":"Udupi",
+        "pic": "https://randomuser.me/api/portraits/men/44.jpg"
+    },
+    {
+        "id": "102",
+        "dept": "Designing",
+        "firstName": "Yogish",
+        "lastName": "Achar",
+        "location":"Bramhavara",
+        "pic": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+        "id": "103",
+        "dept": "Production",
+        "firstName": "Mahesh",
+        "lastName": "Shetty",
+        "location":"Kota",
+        "pic": "https://randomuser.me/api/portraits/men/72.jpg"
+    },
+    {
+        "id": "104",
+        "dept": "Testing",
+        "firstName": "Abhishek",
+        "lastName": "S",
+        "location":"Bidar",
+        "pic": "https://randomuser.me/api/portraits/men/67.jpg"
+    },
+    {
+        "id": "105",
+        "dept": "Marketing",
+        "firstName": "Chethan",
+        "lastName": "Kumar",
+        "location":"Udupi",
+        "pic": "https://randomuser.me/api/portraits/men/36.jpg"
+    },
+    {
+        "id": "106",
+        "dept": "Designing",
+        "firstName": "Mohan",
+        "lastName": "Ganiga",
+        "location":"Mangalore",
+        "pic": "https://randomuser.me/api/portraits/men/37.jpg"
+    },
+    {
+        "id": "107",
+        "dept": "Production",
+        "firstName": "Punith",
+        "lastName": "Raj",
+        "location":"Bangalore",
+        "pic": "https://randomuser.me/api/portraits/men/64.jpg"
+    },
+    {
+        "id": "108",
+        "dept": "Testing",
+        "firstName": "Kiran",
+        "lastName": "Kamath",
+        "location":"Kundapur",
+        "pic": "https://randomuser.me/api/portraits/men/61.jpg"
+    }
+]
