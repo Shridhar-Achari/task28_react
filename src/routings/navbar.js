@@ -19,8 +19,16 @@ return (
       <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav">  
       <li class="active">< Link to="home">Home</Link></li>  
-      <li class="dropdown">< Link to="aboutus">About-Us</Link></li>  
+      <li class="dropdown">< Link to="aboutus">About-Us</Link></li> 
       <li>< Link to="contactus">Contact-Us</Link></li>  
+
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Other Options <span class="caret"></span></a>  
+              <ul class="dropdown-menu">  
+          <li><Link to="api" class="dropdown-item">API[JSON]</Link></li>
+          <li><Link to="empl" class="dropdown-item">Nested</Link></li>
+          <li><Link to="state"  class="dropdown-item">UseState</Link></li>
+        </ul>
+      </li>
     </ul> 
     <ul class="nav navbar-nav navbar-right">  
       <li><Link to="reg"><span class="glyphicon glyphicon-user"></span> Register</Link></li>  

@@ -14,7 +14,12 @@ class Home extends Component {
         <br></br>
         <Link to="contactus">Contact-us Page</Link>
         <br></br>
-        <Link to="/"></Link>
+        <Link to="empl">Nested Component</Link>
+        <br></br>
+        <Link to="api">API[JSON]</Link>
+        <br></br>
+        <Link to="state">USESTATE</Link>
+        <br></br>
      </div>
     );
   }
